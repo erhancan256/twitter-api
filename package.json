@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "express": "^4.21.1",
+    "puppeteer": "^23.5.1"
+  },
+  "name": "Twitter Login APP",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node App.js"
+  }
+}
